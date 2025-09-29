@@ -1,6 +1,6 @@
 # Advance Python Programming 
 
-## Module 1: Python Core Concepts
+## Module 1: 
 
 This module covers the following topics:
 
